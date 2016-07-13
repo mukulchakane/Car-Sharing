@@ -1,0 +1,55 @@
+#search .control-label {
+    width: 50px;
+}
+
+#search .control-group {
+    margin-bottom: 8px;
+}
+
+#search .controls {
+    margin-left: 70px;
+}
+
+#search .form-actions {
+    text-align: right;
+    padding: 0px 20px 0px;
+    border-top: none;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+body > .container-fluid > .row-fluid {
+    clear: both;
+}
+
+#search-bar {
+    float: left;
+    min-width: 410px;
+    max-width: 410px;
+    margin-right: 15px;
+}
+
+#search-results {
+    max-height: 255px;
+    overflow: auto;
+}
+
+#map_canvas {
+    min-width: 300px;
+    min-height: 500px;
+}
+
+.trip-info button {
+    float: right;
+    margin-bottom: 8px;
+}
+
+#modal-trip-info {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+#modal-request-ride form .controls {
+    margin-left: 20px;
+}

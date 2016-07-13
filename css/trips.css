@@ -1,0 +1,39 @@
+table.trips {
+    margin-top: 20px;
+}
+
+table.trips td {
+    vertical-align: middle;
+}
+
+table.trips .departure { width: 150px; }
+table.trips .riders { width: 50px; text-align: center; }
+table.trips .action { width: 150px; text-align: center; }
+table.trips .status { width: 120px; }
+
+#trips-driving-status {
+    text-align: center;
+}
+
+#modal-ride-requests .accordion-toggle {
+    display: inline-block;
+}
+
+#modal-ride-requests .btn-group {
+    display: inline-block;
+    float: right;
+    margin-right: 12px;
+    margin-top: 5px;
+}
+
+#modal-ride-requests-status {
+    text-align: center;
+}
+
+#modal-ride-requests-spots-remaining {
+    margin-bottom: 5px;
+}
+
+#trips-riding-status {
+    text-align: center;
+}

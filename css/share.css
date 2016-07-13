@@ -1,0 +1,32 @@
+.container-fluid .row-fluid {
+    overflow: hidden;
+}
+
+/*.container-fluid .row-fluid .*/
+
+#share .control-label {
+    width: 75px;
+}
+
+#share .controls {
+    margin-left: 95px;
+}
+
+#share .form-actions {
+    text-align: right;
+}
+
+body > .container-fluid > .row-fluid {
+    clear: both;
+}
+
+#share-bar {
+    float: left;
+    min-width: 420px;
+    margin-right: 15px;
+}
+
+#map_canvas {
+    min-width: 300px;
+    min-height: 555px;
+}
